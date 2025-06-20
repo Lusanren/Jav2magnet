@@ -1,2 +1,4 @@
 # Jav2magnet
-jav series crawler script
+Jav series crawler script
+Features: Crawls magnet links for specified AV series with batch processing and error logging
+Usage: Modify avName, avStartID, avEndID and batch_size parameters, then execute the script"
